@@ -62,7 +62,7 @@ Payment gateway simulation
 Search & filter options for house listings
 
 🙌 Developed By
-Khawaja Haris Khan
+Khawaja Haris Khan &
 Yahya Usman
 BS Computer Science Student | Institute Of Management Sciences, Peshawar.
 
